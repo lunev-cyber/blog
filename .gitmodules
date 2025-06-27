@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:lunev-cyber/lunev-cyber.github.io.git
+	branch = main
